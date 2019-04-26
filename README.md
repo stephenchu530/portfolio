@@ -4,7 +4,7 @@
 This is a portfolio project for Code Fellows Course 301.
 
 ## Time Estimate for Feature Implementation:
-```sh
+```
 Number and name of feature: #1 Refactor the CSS
 
 Estimate of time needed to complete: 120min
@@ -15,7 +15,7 @@ Finish time: _____
 
 Actual time needed to complete: _____
 ```
-```sh
+```
 Number and name of feature: #2 Modify the contents
 
 Estimate of time needed to complete: 120min
