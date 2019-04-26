@@ -22,9 +22,9 @@ Estimate of time needed to complete: 120min
 
 Start time: 10:50am
 
-Finish time: _____
+Finish time: 11:40am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 50min
 ```
 
 ## Installation:
