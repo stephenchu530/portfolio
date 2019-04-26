@@ -11,16 +11,16 @@ Estimate of time needed to complete: 120min
 
 Start time: 9:30am
 
-Finish time: _____
+Finish time: 10:40am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 70min
 ```
 ```
 Number and name of feature: #2 Modify the contents
 
 Estimate of time needed to complete: 120min
 
-Start time: _____
+Start time: 10:50am
 
 Finish time: _____
 
