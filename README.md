@@ -3,7 +3,7 @@
 ## Description:
 This is a portfolio project for Code Fellows Course 301.
 
-## Time Estimate for Feature Implementation
+## Time Estimate for Feature Implementation:
 ```sh
 Number and name of feature: #1 Refactor the CSS
 
