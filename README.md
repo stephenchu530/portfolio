@@ -1,6 +1,6 @@
 # Portfolio
 
-https://afternoon-shelf-91073.herokuapp.com/
+heroku deployed: https://afternoon-shelf-91073.herokuapp.com/
 
 ## Description:
 This is a portfolio project for Code Fellows Course 301.
