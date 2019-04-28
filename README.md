@@ -1,5 +1,7 @@
 # Portfolio
 
+https://afternoon-shelf-91073.herokuapp.com/
+
 ## Description:
 This is a portfolio project for Code Fellows Course 301.
 
@@ -34,7 +36,7 @@ From the terminal, run one of the following to make a local copy:
 
 ## Usage:
 * Change directory into the project directory and load `index.html` in your favorite browser.
-* Or go to: [Deployed Portfolio](https://stephenchu530.github.io/portfolio/)
+* Or go to: [Deployed Portfolio](https://afternoon-shelf-91073.herokuapp.com/)
 
 ## Credits:
 * Stephen Chu, [stephenchu530](https://github.com/stephenchu530)
