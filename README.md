@@ -28,6 +28,17 @@ Finish time: 11:40am
 
 Actual time needed to complete: 50min
 ```
+```
+Number and name of feature: #3 Added Functionality
+
+Estimate of time needed to complete: 120mins
+
+Start time: 8:40am
+
+Finish time: 11:00am
+
+Actual time needed to complete: 140min
+```
 
 ## Installation:
 From the terminal, run one of the following to make a local copy:
