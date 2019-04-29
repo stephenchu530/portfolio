@@ -33,9 +33,9 @@ Estimate of time needed to complete: 120mins
 
 Start time: 8:40am
 
-Finish time: _____
+Finish time: 11:00am
 
-Actual time needed to complete: _____
+Actual time needed to complete: 140min
 ```
 
 ## Installation:
